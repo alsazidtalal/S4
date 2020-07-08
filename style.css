@@ -17,8 +17,8 @@ border-image-slice: 1;
 }
 .out{
 /* background-color: ; */
-color: rgb(46, 46, 46);
-background-color: black;
+color: rgb(9, 12, 34);
+background-color: rgba(17, 193, 224, 0.664);
 
 }
 .link-button{
